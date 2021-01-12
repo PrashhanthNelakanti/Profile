@@ -1,0 +1,17 @@
+#myDIV {
+    height: 1550px;
+    width: 1250px;
+    overflow: auto;
+}
+
+#content {
+    height: 800px;
+    width: 1500px;
+    background-color: coral;
+}
+
+#yellow {
+    height: 400px;
+    width: 800px;
+    background-color: rgb(167, 184, 134);
+}
